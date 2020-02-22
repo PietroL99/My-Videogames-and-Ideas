@@ -1,2 +1,2 @@
-# PietroL
-Game Design work
+# PietroLazzini
+Game Design work and ideas
